@@ -1,0 +1,4 @@
+# Example Workflow Configuration for mega-beacon
+name: mega-beacon
+description: "This is a sample workflow configuration"
+runs-on: dut-example-label

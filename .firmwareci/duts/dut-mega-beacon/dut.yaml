@@ -1,0 +1,6 @@
+# Example Device-under-Test Configuration for mega-beacon
+name: Example-DUT
+label: dut-example-label
+attributes:
+  Host: "host.local"
+  Flasher: "flasher.local"

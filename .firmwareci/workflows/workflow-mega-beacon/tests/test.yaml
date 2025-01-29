@@ -1,0 +1,14 @@
+# Example Test Configuration for mega-beacon
+name: Example Test
+description: This is a sample test configuration
+
+stages:
+- name: Example Stage
+  steps:
+  - cmd: cmd
+    name: Example Step
+    transport:
+      proto: local
+    parameters:
+      executable: echo
+      args: ["Hello, World!"]
