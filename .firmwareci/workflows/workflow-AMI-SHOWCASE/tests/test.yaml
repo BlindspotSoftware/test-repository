@@ -1,6 +1,8 @@
-# Example Test Configuration for mega-beacon
+# Example Test Configuration for AMI-SHOWCASE
 name: Example Test
 description: This is a sample test configuration
+
+binary-not-required: true
 
 stages:
 - name: Example Stage

@@ -1,4 +1,4 @@
-# Example Device-under-Test Configuration for mega-beacon
+# Example Device-under-Test Configuration for AMI-SHOWCASE
 name: Example-DUT
 label: dut-example-label
 attributes:

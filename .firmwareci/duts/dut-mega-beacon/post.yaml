@@ -1,8 +1,0 @@
-# Example Post-Stage for a device
-post-stage:
-  - cmd: dutctl
-    name: Clean up. Shutdown the DUT.
-    parameters:
-      host: "[[attributes.Flasher]]"
-      command: power
-      args: ["off"]

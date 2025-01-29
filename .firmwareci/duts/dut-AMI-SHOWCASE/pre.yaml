@@ -1,0 +1,9 @@
+ #Example Pre-Stage for a device
+pre-stage:
+  - cmd: cmd
+    name: Prepare the DUT
+    transport:
+      proto: local
+    parameters:
+      executable: echo
+      args: ["Hello from the Prestage. Templating works here!"]
