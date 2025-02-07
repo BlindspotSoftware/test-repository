@@ -1,4 +1,4 @@
-# Example Test Configuration for AMI-SHOWCASE
+# Example Test Configuration for AMI-RPL-SOMETHING
 name: Example Test
 description: This is a sample test configuration
 
@@ -13,4 +13,4 @@ stages:
       proto: local
     parameters:
       executable: echo
-      args: ["Hello, AMI!"]
+      args: ["Hello, World!"]

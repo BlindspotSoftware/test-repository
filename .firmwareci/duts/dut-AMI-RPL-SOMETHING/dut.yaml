@@ -1,4 +1,4 @@
-# Example Device-under-Test Configuration for AMI-SHOWCASE
+# Example Device-under-Test Configuration for AMI-RPL-SOMETHING
 name: Example-DUT
 label: dut-example-label
 attributes:
