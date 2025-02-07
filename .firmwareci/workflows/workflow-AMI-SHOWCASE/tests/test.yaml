@@ -13,4 +13,4 @@ stages:
       proto: local
     parameters:
       executable: echo
-      args: ["Hello, World!"]
+      args: ["Hello, AMI!"]
